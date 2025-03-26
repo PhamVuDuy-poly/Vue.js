@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "okokoko",
+      "email": "okokok65@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Le danh hiep",
+      "email": "hiep12@example.com"
+    },
+    {
+      "id": "65a0",
+      "name": "admin",
+      "email": "du@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "sku": "MP123",
+      "title": "Bánh gạo chiên giòn",
+      "content": "Giá rẻ phải chăng",
+      "price": 2893000
+    },
+    {
+      "id": "2",
+      "sku": "MP324",
+      "title": "Bánh lá hẹ",
+      "content": "Nhân giòn không ăn hơi phí",
+      "price": 2893000
+    },
+    {
+      "id": "3",
+      "sku": "MP344",
+      "title": "Bánh kem tươi",
+      "content": "Không ăn đi chờ chi",
+      "price": 2893000
+    },
+    {
+      "id": "4",
+      "sku": "MP545",
+      "title": "Bánh lá ngón",
+      "content": "Sales khủng chỉ với hôm nay",
+      "price": 2893000
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "sinhvien4432432",
+      "age": 12,
+      "email": "du@gmail.com",
+      "images": "https://images.pexels.com/photos/719396/pexels-photo-719396.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "ee07",
+      "name": "Vũ Duy Phạm",
+      "age": 12,
+      "email": "du@gmail.com",
+      "images": "https://d1hjkbq40fs2x4.cloudfront.net/2017-08-21/files/landscape-photography_1645-t.jpg"
+    }
+  ]
+}
